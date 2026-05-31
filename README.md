@@ -2,344 +2,370 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:102347,70:1f6feb,100:70a5fd&height=280&section=header&text=Jenifer%20Vincy%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20•%20Industrial%20IoT%20•%20Edge%20AI%20•%20Firmware%20Development&descAlignY=60&descSize=18&descColor=c9d1d9"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Building+Intelligent+Embedded+Systems;STM32+%7C+ESP32+%7C+Industrial+IoT+%7C+Edge+AI;Firmware+Development+%7C+PCB+Design+%7C+Automation;Transforming+Ideas+Into+Real-World+Solutions)](https://github.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Building+Intelligent+Embedded+Systems;STM32+%7C+ESP32+%7C+Industrial+IoT+%7C+Edge+AI;Firmware+Development+%7C+PCB+Design+%7C+Automation;Transforming+Ideas+Into+Real-World+Solutions)](https://github.com/jenifervincya)
 
 <br>
 
 <a href="https://www.linkedin.com/in/jenifer-vincy-a-ab569b325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="mailto:jenifervincy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
 <a href="https://github.com/jenifervincya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=jenifervincya&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS"/>
 
-<img src="https://komarev.com/ghpvc/?username=jenifervincya&style=for-the-badge&color=70a5fd"/>
+<br><br>
+
+> *"Build things that matter. Embed intelligence everywhere."*
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👩‍💻 About Me
 
 I'm **Jenifer Vincy A**, an Electrical & Electronics Engineering undergraduate passionate about developing intelligent systems that bridge hardware, firmware, and data.
 
-### Areas of Interest
-
-- ⚡ Embedded Systems
-- 🔧 Firmware Development
-- 🌐 Industrial IoT
-- 🤖 Edge AI & TinyML
-- 📡 Communication Protocols
-- 📐 PCB Design
-- 🔌 Hardware–Software Integration
-
-Currently focused on building reliable solutions using **STM32**, **ESP32**, **Embedded C/C++**, **Industrial IoT Architectures**, and **Edge AI**.
-
-> **Build things that matter. Embed intelligence everywhere.**
+```text
+🎯 Focus       Embedded Systems · Industrial IoT · Edge AI
+🔧 Platforms   STM32 · ESP32 · Arduino
+💡 Languages   Embedded C · C++ · Python
+📡 Protocols   UART · I²C · SPI · Bluetooth · RFID
+🌱 Learning    RTOS · Embedded Linux · TinyML · German (A1)
+🤝 Member      IEEE Student Member (2024–Present)
+```
 
 ---
 
-# ⚡ Engineering Dashboard
+## ⚡ Engineering Dashboard
 
 <div align="center">
 
-| Metric | Value |
-|----------|----------|
-| 🎓 CGPA | 8.79 |
-| 💻 LeetCode Problems | 160+ |
-| 🍴 CodeChef Problems | 600+ |
-| 🏆 Hackathons | 5+ |
-| 🤝 IEEE Membership | 2 Years |
+|  | Metric | Value |
+|:---:|:---|:---:|
+| 🎓 | CGPA | **8.79** |
+| 💻 | LeetCode Problems Solved | **160+** |
+| 🍴 | CodeChef Problems Solved | **600+** |
+| 🏆 | Hackathons Participated | **5+** |
+| 📜 | Certifications Earned | **11+** |
+| 🔧 | Projects Built | **15+** |
+| 🤝 | IEEE Membership | **2 Years** |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## ⚡ BoltOn.AI
+### ⚡ BoltOn.AI
+**Industrial IoT Predictive Maintenance Platform**
 
-### Industrial IoT Predictive Maintenance Platform
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge_AI-70a5fd?style=flat-square)
+![FFT](https://img.shields.io/badge/FFT-0d1117?style=flat-square&labelColor=1f6feb)
+![SVM](https://img.shields.io/badge/One--Class_SVM-0d1117?style=flat-square&labelColor=1f6feb)
 
-**Tech Stack**
-
-ESP32 • Edge AI • FFT • One-Class SVM • IoT Dashboard
-
-**Highlights**
-
-- Real-time machine monitoring
-- Embedded anomaly detection
-- Predictive maintenance alerts
-- Industrial analytics dashboard
-- Plug-and-play deployment
+- 🔍 Real-time machine monitoring
+- 🧠 Embedded anomaly detection via One-Class SVM
+- 🔔 Predictive maintenance alerts
+- 📊 Industrial analytics dashboard
+- 🔌 Plug-and-play deployment
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🔋 EDGE-AI Power Auditor
+### 🔋 EDGE-AI Power Auditor
+**Decentralized Harmonic Analysis & NILM Diagnostics**
 
-### Decentralized Harmonic Analysis & NILM Diagnostics
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Edge AI](https://img.shields.io/badge/Edge_AI-70a5fd?style=flat-square)
+![NILM](https://img.shields.io/badge/NILM-0d1117?style=flat-square&labelColor=1f6feb)
+![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&labelColor=1f6feb)
 
-**Tech Stack**
-
-STM32 • Edge AI • NILM • IoT
-
-**Highlights**
-
-- Real-time power monitoring
-- Harmonic analysis
-- Device diagnostics
-- Embedded analytics
-- Smart energy management
+- ⚡ Real-time power quality monitoring
+- 📈 Harmonic analysis & device diagnostics
+- 🏠 Non-intrusive load monitoring (NILM)
+- 📡 Embedded analytics pipeline
+- 💡 Smart energy management
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-## 🚑 ResQPath
+### 🚑 ResQPath
+**Intelligent Adaptive Traffic Signal System**
 
-### Intelligent Adaptive Traffic Signal System
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
+![RFID](https://img.shields.io/badge/RFID-0d1117?style=flat-square&labelColor=1f6feb)
+![Blynk](https://img.shields.io/badge/Blynk_IoT-00979D?style=flat-square)
 
-**Tech Stack**
-
-ESP32 • RFID • Blynk IoT
-
-**Highlights**
-
-- Ambulance detection
-- Adaptive signal control
-- Remote monitoring
-- Smart city integration
+- 🚨 Ambulance RFID detection
+- 🚦 Adaptive signal control logic
+- 📱 Remote monitoring via Blynk
+- 🏙️ Smart city integration ready
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🌍 Wander & Wonder
+### 🌍 Wander & Wonder
+**Responsive Travel Website**
 
-### Responsive Travel Website
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)
 
-**Tech Stack**
-
-HTML5 • CSS3 • GitHub Pages
-
-**Highlights**
-
-- Responsive design
-- Semantic HTML
-- Clean user interface
-- GitHub Pages deployment
+- 📐 Fully responsive layout
+- ✍️ Semantic HTML structure
+- 🎨 Clean, accessible UI design
+- 🚀 Deployed on GitHub Pages
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Programming Languages
-
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark"/>
 </p>
 
-## Embedded Platforms
-
+### Embedded Platforms
 <p>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-## Tools
+### Tools & IDEs
+<p>
+  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MPLAB_X-DD1100?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autodesk_EAGLE-0696D7?style=flat-square&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TinkerCAD-FF6D00?style=flat-square&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
-STM32CubeIDE • MPLAB X • Autodesk EAGLE • Arduino IDE • TinkerCAD • Git • GitHub
+### Communication Protocols
+`UART` &nbsp;`I²C` &nbsp;`SPI` &nbsp;`Bluetooth` &nbsp;`RFID`
 
-## Communication Protocols
-
-UART • I2C • SPI • Bluetooth • RFID
-
-## IoT Platforms
-
-ThingSpeak • Blynk
-
----
-
-# 💼 Experience
-
-## 🔧 Industrial Training — Sunshiv Electronic Solutions
-
-📍 Coimbatore | Dec 2025
-
-- Product design and manufacturing exposure
-- PCB design and assembly
-- Circuit design and troubleshooting
-- Autodesk EAGLE schematic and PCB development
+### IoT Platforms
+<p>
+  <img src="https://img.shields.io/badge/ThingSpeak-0080ff?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blynk-00979D?style=flat-square&logoColor=white"/>
+</p>
 
 ---
 
-## ⚡ Arduino Internship — Pantech Solutions
+## 💼 Experience
 
-📍 Online | Dec 2025
+<table>
+<tr>
+<td>
 
-- Embedded application development using Arduino
-- Sensor interfacing and hardware integration
-- UART, I²C, Bluetooth and RFID communication
-- IoT integration using ThingSpeak
+**🚀 Embedded Systems Intern** &nbsp;·&nbsp; *iQuants Engineering Solutions*
+
+`Current` &nbsp;·&nbsp; Embedded systems development, Automotive ECU work, hardware–software integration, industry-oriented engineering workflows
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🔧 Industrial Training** &nbsp;·&nbsp; *Sunshiv Electronic Solutions, Coimbatore*
+
+`Dec 2025` &nbsp;·&nbsp; Product design & manufacturing, PCB design & assembly, Autodesk EAGLE schematics, circuit troubleshooting
+
+</td>
+</tr>
+<tr>
+<td>
+
+**⚡ Arduino Internship** &nbsp;·&nbsp; *Pantech Solutions (Online)*
+
+`Dec 2025` &nbsp;·&nbsp; Embedded application dev with Arduino, sensor interfacing, UART / I²C / Bluetooth / RFID, IoT with ThingSpeak
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Embedded Systems Intern — iQuants Engineering Solutions
-
-📍 Current
-
-- Embedded systems development
-- Automotive ECU
-- Industry-oriented engineering workflows
-- Practical engineering applications
-
----
-
-# 🏆 Achievements
-
-- 🇮🇳 Smart India Hackathon 2025 — Selected (SIH25085)
-- 🤖 TECHNOXIAN 9.0 World Robotics Championship Participant
-- ⚡ HackSmart 36-Hour Hackathon — Waste to Watts
-- 👩 TNWISE 2025 by TANCAM
-- 💡 TN-IMPACT 2026 by TANCAM
-- 🤝 IEEE Student Member (2024 – Present)
-
----
-
-# 🎖️ Featured Badge
+## 🏆 Achievements
 
 <div align="center">
 
-### 🏅 Google Prompting Essentials
-
-<img src="badges/google-prompting-badge.png" width="250"/>
-
-<br>
-
-Certified by Google through Coursera
+| 🏅 Achievement | Details |
+|:---|:---|
+| 🇮🇳 Smart India Hackathon 2025 | **Selected** — Problem Code SIH25085 |
+| 🤖 TECHNOXIAN 9.0 | World Robotics Championship **Participant** |
+| ⚡ HackSmart 36-Hour Hackathon | **Waste to Watts** track |
+| 👩 TNWISE 2025 | by TANCAM |
+| 💡 TN-IMPACT 2026 | by TANCAM |
+| 🤝 IEEE Student Member | **2024 – Present** |
+| 🔥 CodeChef | **Gold Streak Badge** |
+| 🧠 LeetCode | **100 Days Badge 2026** |
 
 </div>
 
 ---
 
-# 🤝 Professional Memberships
+## 🎖️ Featured Certification
 
-## IEEE Student Member
+<div align="center">
 
-📅 2024 – Present
+<img src="badges/google-prompting-badge.png" width="200"/>
 
-- Active IEEE Student Member for 2+ years
-- Participating in technical workshops and events
-- Exploring emerging technologies in embedded systems and automation
-- Engaged in engineering-focused learning and networking
+**Google Prompting Essentials**
+*Certified by Google through Coursera*
 
----
-
-# 📜 Certifications
-
-### AI & Software
-
-- Google Prompting Essentials — Google & Coursera
-- AI Primer — Infosys Springboard
-- Deep Learning and AI — CodeChef
-- Python Foundation — Infosys Springboard
-
-### Development & Engineering
-
-- Git and GitHub — CodeChef
-- C and C++
-- Web Designing
-- Introduction and Programming with IoT Boards — POSTECH
-
-### NPTEL
-
-- Design Thinking – A Primer
-- Technology Commercialization and New Product Development
-
-### Additional
-
-- Diploma in Computer Management
+</div>
 
 ---
 
-# 🌱 Currently Learning
+## 📜 Certifications
+
+<details>
+<summary><b>🤖 AI & Software</b></summary>
+
+- ✅ Google Prompting Essentials — *Google & Coursera*
+- ✅ AI Primer — *Infosys Springboard*
+- ✅ Deep Learning and AI — *CodeChef*
+- ✅ Python Foundation — *Infosys Springboard*
+
+</details>
+
+<details>
+<summary><b>🔧 Development & Engineering</b></summary>
+
+- ✅ Git and GitHub — *CodeChef*
+- ✅ C and C++ Programming
+- ✅ Web Designing
+- ✅ Introduction and Programming with IoT Boards — *POSTECH*
+
+</details>
+
+<details>
+<summary><b>📘 NPTEL</b></summary>
+
+- ✅ Design Thinking – A Primer
+- ✅ Technology Commercialization and New Product Development
+
+</details>
+
+<details>
+<summary><b>🖥️ Additional</b></summary>
+
+- ✅ Diploma in Computer Management
+
+</details>
+
+---
+
+## 🌱 Currently Learning
 
 ```text
-STM32 Peripheral Programming
-RTOS Fundamentals
-Industrial IoT Architectures
-German Language (A1)
+▸ STM32 Peripheral Programming
+▸ RTOS Fundamentals
+▸ Industrial IoT Architectures (MQTT · Modbus)
+▸ Edge AI Deployment & TinyML
+▸ Embedded Linux Basics
+▸ Advanced PCB Design
+▸ German Language (A1)
 ```
 
 ---
 
-# 🎯 Engineering Focus
+## 🎯 Engineering Focus
 
-### Embedded Systems
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**⚙️ Embedded Systems**
 - STM32 Development
 - ESP32 Applications
 - Embedded C/C++
 - Peripheral Programming
 - Sensor Integration
 
-### Industrial IoT
+</td>
+<td valign="top" width="25%">
+
+**🌐 Industrial IoT**
 - Machine Monitoring
 - Predictive Maintenance
-- Cloud Connected Devices
+- Cloud-Connected Devices
 - Smart Automation
 
-### Edge AI
+</td>
+<td valign="top" width="25%">
+
+**🤖 Edge AI**
 - TinyML
-- FFT-Based Signal Processing
+- FFT Signal Processing
 - Anomaly Detection
 - Embedded Intelligence
 
-### Hardware Design
-- PCB Design
+</td>
+<td valign="top" width="25%">
+
+**📐 Hardware Design**
+- PCB Design (EAGLE)
 - Circuit Design
 - Prototyping
 - Hardware Validation
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 🚀 Future Goals
+## 📊 GitHub Stats
 
-- Develop production-grade embedded firmware
-- Build scalable Industrial IoT solutions
-- Learn RTOS and Embedded Linux
-- Explore Automotive Embedded Systems
-- Deploy Edge AI on resource-constrained devices
-- Contribute to impactful engineering products
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenifervincya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifervincya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jenifervincya&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Future Goals
+
+```text
+◉  Develop production-grade embedded firmware
+◉  Build scalable Industrial IoT solutions
+◉  Master RTOS and Embedded Linux
+◉  Explore Automotive Embedded Systems (ECU / CAN / AUTOSAR)
+◉  Deploy Edge AI on resource-constrained devices
+◉  Contribute to impactful open-source engineering products
+```
 
 ---
 
 <div align="center">
 
-### ⚡ Building Intelligent Embedded Systems for Real-World Applications ⚡
+**⚡ Building Intelligent Embedded Systems for Real-World Applications ⚡**
 
-Embedded Systems • Industrial IoT • Edge AI • Automation
+`Embedded Systems` &nbsp;•&nbsp; `Industrial IoT` &nbsp;•&nbsp; `Edge AI` &nbsp;•&nbsp; `Automation`
 
 <br>
 
