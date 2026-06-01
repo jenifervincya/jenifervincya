@@ -223,7 +223,6 @@ Embedded application dev · Sensor interfacing · UART, I2C, Bluetooth, RFID · 
 
 <br/>
 
-🤝 **IEEE Student Member · 2024–Present · Active 2 years**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8AF5,50:1A3A6B,100:060D1F&height=120&section=footer"/>
 
