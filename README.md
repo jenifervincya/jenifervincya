@@ -150,7 +150,7 @@ PCB design & assembly · Autodesk EAGLE · Circuit design & troubleshooting · P
 
 **⚡ Arduino Internship — Pantech Solutions** &nbsp; `Online · Dec 2025`
 
-Embedded application dev · Sensor interfacing · UART, I²C, Bluetooth, RFID · IoT with ThingSpeak
+Embedded application dev · Sensor interfacing · UART, I2C, Bluetooth, RFID · IoT with ThingSpeak
 
 ---
 
@@ -185,20 +185,20 @@ Embedded application dev · Sensor interfacing · UART, I²C, Bluetooth, RFID ·
 
 **AI & Software**
 
-✔ Google Prompting Essentials — Google & Coursera  
-✔ AI Primer — Infosys Springboard  
-✔ Deep Learning & AI — CodeChef  
-✔ Python Foundation — Infosys  
+• Google Prompting Essentials — Google & Coursera  
+• AI Primer — Infosys Springboard  
+• Deep Learning & AI — CodeChef  
+• Python Foundation — Infosys  
 
 </td>
 <td width="50%" valign="top">
 
 **Engineering & NPTEL**
 
-✔ IoT Boards Programming — POSTECH  
-✔ Design Thinking – A Primer — NPTEL  
-✔ Technology Commercialization & New Product Dev — NPTEL  
-✔ Git and GitHub — CodeChef  
+• IoT Boards Programming — POSTECH  
+• Design Thinking – A Primer — NPTEL  
+• Technology Commercialization & New Product Development — NPTEL  
+• Git and GitHub — CodeChef  
 
 </td>
 </tr>
@@ -223,7 +223,7 @@ Embedded application dev · Sensor interfacing · UART, I²C, Bluetooth, RFID ·
 
 <br/>
 
-🤝 **IEEE Student Member · 2024–Present · Active 2+ years**
+🤝 **IEEE Student Member · 2024–Present · Active 2 years**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B8AF5,50:1A3A6B,100:060D1F&height=120&section=footer"/>
 
