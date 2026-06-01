@@ -26,10 +26,8 @@
 
 <div align="center">
 
-| 🎓 | 💻 | 🍴 | 🏆 | 🤝 |
-|:---:|:---:|:---:|:---:|:---:|
-| **8.79** | **160+** | **600+** | **5+** | **2yr** |
 | CGPA | LeetCode solved | CodeChef problems | Hackathons | IEEE membership |
+| **8.79** | **160+** | **600+** | **5+** | **2yr** |
 
 </div>
 
