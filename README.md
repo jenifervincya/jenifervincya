@@ -185,20 +185,20 @@ Embedded application dev · Sensor interfacing · UART, I2C, Bluetooth, RFID · 
 
 **AI & Software**
 
-• Google Prompting Essentials — Google & Coursera  
-• AI Primer — Infosys Springboard  
-• Deep Learning & AI — CodeChef  
-• Python Foundation — Infosys  
+- Google Prompting Essentials — Google & Coursera  
+- AI Primer — Infosys Springboard  
+- Deep Learning & AI — CodeChef  
+- Python Foundation — Infosys  
 
 </td>
 <td width="50%" valign="top">
 
 **Engineering & NPTEL**
 
-• IoT Boards Programming — POSTECH  
-• Design Thinking – A Primer — NPTEL  
-• Technology Commercialization & New Product Development — NPTEL  
-• Git and GitHub — CodeChef  
+- IoT Boards Programming — POSTECH  
+- Design Thinking – A Primer — NPTEL  
+- Technology Commercialization & New Product Development — NPTEL  
+- Git and GitHub — CodeChef  
 
 </td>
 </tr>
