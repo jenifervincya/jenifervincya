@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060D1F,30:0D1A3A,70:1A3A6B,100:5B8AF5&height=260&section=header&text=Jenifer%20Vincy%20A&fontSize=52&fontColor=E8F0FF&animation=fadeIn&fontAlignY=40&desc=Embedded%20Systems%20%E2%80%A2%20Industrial%20IoT%20%E2%80%A2%20Edge%20AI%20%E2%80%A2%20PCB%20Design&descAlignY=62&descSize=16&descColor=8892b0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060D1F,30:0D1A3A,70:1A3A6B,100:5B8AF5&height=260&section=header&text=Jenifer%20Vincy%20A&fontSize=52&fontColor=E8F0FF&animation=fadeIn&fontAlignY=40&desc=Electrical%20and%20Electronics%20Engineering&descAlignY=62&descSize=16&descColor=8892b0"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=2500&pause=1000&color=5B8AF5&center=true&vCenter=true&width=900&lines=STM32+%7C+ESP32+%7C+Embedded+C%2FC%2B%2B+%7C+Edge+AI;Industrial+IoT+%7C+PCB+Design+%7C+Firmware+Development;Build+things+that+matter.+Embed+intelligence+everywhere.)](https://github.com/jenifervincya)
 
@@ -9,8 +9,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenifer-vincy-a-ab569b325)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenifervincy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenifervincya)
-[![IEEE](https://img.shields.io/badge/IEEE%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org)
+[![CodeChef](https://img.shields.io/badge/CodeChef-38E8C5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jenifervincya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jenifervincya)
 ![Profile Views](https://komarev.com/ghpvc/?username=jenifervincya&style=for-the-badge&color=5b8af5)
+
+<br/>
+
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-5B8AF5?style=flat-square&labelColor=0D1A3A&color=5B8AF5)
+![CGPA 8.79](https://img.shields.io/badge/CGPA-8.79-38E8C5?style=flat-square&labelColor=0D1A3A)
+![IEEE Member](https://img.shields.io/badge/IEEE-Member-5B8AF5?style=flat-square&labelColor=0D1A3A)
+![SIH 2025](https://img.shields.io/badge/SIH%202025-Selected-8892b0?style=flat-square&labelColor=0D1A3A)
 
 </div>
 
@@ -24,7 +32,7 @@ I'm **Jenifer Vincy A**, an Electrical & Electronics Engineering undergraduate b
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 Metrics
 
 <div align="center">
 
@@ -41,28 +49,28 @@ I'm **Jenifer Vincy A**, an Electrical & Electronics Engineering undergraduate b
 ### ⚡ BoltOn.AI — Industrial IoT Predictive Maintenance
 > `ESP32` `Edge AI` `FFT` `One-Class SVM` `IoT Dashboard`
 
-Real-time machine health monitoring with embedded anomaly detection. Plug-and-play deployment, predictive maintenance alerts, and industrial analytics — all at the edge.
+Industrial IoT predictive maintenance platform with real-time anomaly detection and plug-and-play deployment.
 
 ---
 
 ### 🔋 EDGE-AI Smart Auditor — Decentralized Harmonic Analysis & NILM
 > `STM32` `Edge AI` `NILM` `IoT`
 
-Real-time power monitoring with harmonic analysis and non-intrusive load monitoring (NILM) for smart energy management and embedded diagnostics.
+Decentralized harmonic analysis and NILM diagnostics for smart energy management and embedded analytics.
 
 ---
 
 ### 🚑 ResQPath — Intelligent Adaptive Traffic Signal System
 > `ESP32` `RFID` `Blynk IoT`
 
-Ambulance-aware adaptive traffic control with remote monitoring and smart city integration. Reduces emergency response time through automated signal override.
+Intelligent adaptive traffic signal system with ambulance detection, remote monitoring, and smart city integration.
 
 ---
 
 ### 🌍 Wander & Wonder — Responsive Travel Website
 > `HTML5` `CSS3` `GitHub Pages`
 
-Clean, semantic, mobile-first travel site deployed on GitHub Pages with polished UI/UX.
+Responsive travel website with semantic HTML5 and clean UI — deployed via GitHub Pages.
 
 ---
 
@@ -71,33 +79,30 @@ Clean, semantic, mobile-first travel site deployed on GitHub Pages with polished
 **Languages**
 `C` `C++` `Python` `Embedded C`
 
-**Embedded Platforms**
-`STM32` `ESP32` `Arduino`
+**Platforms & Hardware**
+`STM32` `ESP32` `Arduino` `PCB Design`
 
 **Communication Protocols**
 `UART` `I2C` `SPI` `Bluetooth` `RFID`
 
-**Tools & IDEs**
-`STM32CubeIDE` `MPLAB X` `Autodesk EAGLE` `Arduino IDE` `TinkerCAD` `Git`
-
-**IoT Platforms**
-`ThingSpeak` `Blynk`
+**Tools & IoT Platforms**
+`STM32CubeIDE` `Autodesk EAGLE` `TinkerCAD` `ThingSpeak` `Blynk` `Git`
 
 **AI / Signal Processing**
-`TinyML` `FFT-Based Signal Processing` `Anomaly Detection` `NILM`
+`TinyML` `FFT Analysis` `Anomaly Detection` `NILM`
 
 ---
 
 ## 💼 Experience
 
 **🚀 Embedded Systems Intern — iQuants Engineering Solutions** *(Current)*
-Automotive ECU development · Software Defined Vehicles (SDV) · Practical embedded engineering applications
+Embedded systems development · Automotive ECU · Software Defined Vehicles (SDV)
 
 **🔧 Industrial Training — Sunshiv Electronic Solutions** *(Coimbatore · Dec 2025)*
-PCB design & assembly · Autodesk EAGLE schematic development · Circuit design & troubleshooting · Product manufacturing
+PCB design & assembly · Autodesk EAGLE · Circuit design & troubleshooting · Product manufacturing exposure
 
 **⚡ Arduino Internship — Pantech Solutions** *(Online · Dec 2025)*
-Embedded application development · Sensor interfacing · UART, I²C, Bluetooth, RFID protocols · IoT with ThingSpeak
+Embedded application dev · Sensor interfacing · UART, I²C, Bluetooth, RFID · IoT with ThingSpeak
 
 ---
 
@@ -117,18 +122,14 @@ Embedded application development · Sensor interfacing · UART, I²C, Bluetooth,
 **AI & Software**
 - Google Prompting Essentials — Google & Coursera
 - AI Primer — Infosys Springboard
-- Deep Learning and AI — CodeChef
+- Deep Learning & AI — CodeChef
 - Python Foundation — Infosys Springboard
 
-**Engineering & Development**
+**Engineering & NPTEL**
 - Introduction and Programming with IoT Boards — POSTECH
+- Design Thinking – A Primer — NPTEL
+- Technology Commercialization and New Product Development — NPTEL
 - Git and GitHub — CodeChef
-- C and C++ Programming
-- Web Designing
-
-**NPTEL**
-- Design Thinking – A Primer
-- Technology Commercialization and New Product Development
 
 ---
 
