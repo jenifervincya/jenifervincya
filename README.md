@@ -15,8 +15,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jenifervincya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenifer-vincy-a-ab569b325)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenifervincy@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-38E8C5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jenifervincya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jenifervincya)
+[![CodeChef](https://img.shields.io/badge/CodeChef-38E8C5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jenifer_raj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jenifer_raj_/)
 
 </div>
 
