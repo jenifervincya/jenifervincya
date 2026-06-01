@@ -9,7 +9,6 @@
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-1A3A6B?style=for-the-badge&logoColor=5B8AF5&color=1A3A6B&labelColor=1A3A6B)
 ![CGPA 8.79](https://img.shields.io/badge/CGPA%208.79-1A3A6B?style=for-the-badge&color=1A3A6B&labelColor=1A3A6B)
 ![IEEE Member](https://img.shields.io/badge/IEEE%20Member-1A3A6B?style=for-the-badge&color=1A3A6B&labelColor=1A3A6B)
-![SIH 2025 Selected](https://img.shields.io/badge/SIH%202025%20Selected-1A3A6B?style=for-the-badge&color=1A3A6B&labelColor=1A3A6B)
 
 <br/>
 
