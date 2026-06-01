@@ -160,16 +160,16 @@ Embedded application dev · Sensor interfacing · UART, I2C, Bluetooth, RFID · 
 <tr>
 <td>
 
-- 🟢 Smart India Hackathon 2025 — Selected (SIH25085)
-- 🟢 HackSmart 36-Hr Hackathon — Waste to Watts
-- 🟢 TN-IMPACT 2026 by TANCAM
+-  Smart India Hackathon 2025 — Selected (SIH25085)
+-  HackSmart 36-Hr Hackathon — Waste to Watts
+-  TN-IMPACT 2026 by TANCAM
 
 </td>
 <td>
 
-- 🟢 TECHNOXIAN 9.0 World Robotics Championship
-- 🟢 TNWISE 2025 by TANCAM
-- 🟢 Google Prompting Essentials — Certified
+-  TECHNOXIAN 9.0 World Robotics Championship
+-  TNWISE 2025 by TANCAM
+-  Google Prompting Essentials — Certified
 
 </td>
 </tr>
