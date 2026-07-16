@@ -28,7 +28,7 @@
 
 | CGPA | LeetCode solved | CodeChef problems | Hackathons | IEEE membership |
 |:---:|:---:|:---:|:---:|:---:|
-| **8.79** | **160+** | **600+** | **5+** | **2yr** |
+| **8.79** | **260+** | **730+** | **7+** | **2yr** |
 
 </div>
 
